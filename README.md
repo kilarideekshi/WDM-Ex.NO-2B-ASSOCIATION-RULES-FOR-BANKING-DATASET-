@@ -36,7 +36,7 @@ female,0115,sbh,pdtr,no
 7)	In that dialog box there are four modes, click on explorer.
 8)	Explorer shows many options. In that click on ‘open file’ and select the arff file
 9)	Click on edit button which shows banking table on weka.
- 
+ ```
 Training Data Set  Banking Table
 <img width="730" height="784" alt="image" src="https://github.com/user-attachments/assets/b901d50b-211c-4a08-9cca-fa8d732e48b8" />
 
@@ -48,22 +48,14 @@ Procedure for Association Rules:
 4)	Select Associate option on the top of the Menu bar.
 5)	Select Choose button and then click on Apriori Algorithm.
 6)	Click on Start button and output will be displayed on the right side of the window.
- <img width="1086" height="899" alt="image" src="https://github.com/user-attachments/assets/6f6ad74e-bee1-4825-877c-9c413e30913a" />
+ 
 
  
 Output:
-<img width="924" height="560" alt="image" src="https://github.com/user-attachments/assets/f02f6e67-2a79-4c79-b844-d3b5c75d0069" />
-
- 
- 
-
-<img width="942" height="561" alt="image" src="https://github.com/user-attachments/assets/3d89ab29-5e6e-4505-9523-44284d7f4639" />
 
 
 
-
-
-
+<img width="1290" height="942" alt="image" src="https://github.com/user-attachments/assets/4cd84c69-511b-455f-813d-33258f3fae9d" />
 
 
 
